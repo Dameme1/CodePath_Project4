@@ -1,10 +1,10 @@
-# Project 4 - *Name of App Here*
+# Project 4 - *Scavenger App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tameem Ahmed**
 
-**Name of your app** is an app that ... [TODO] 
+**Scavenger App** is an app that allows the user complete a list of tasks and upload a picture to prove the completion of a task. Then the app shows the user where the photo was taken.  
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
